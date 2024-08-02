@@ -1,0 +1,11 @@
+{
+  "hack.remote.enabled": true,
+  "hack.remote.type": "docker",
+  "hack.remote.docker.containerName": "hackmac-quick-start-hack-dev-1",
+  "hack.remote.workspacePath": "/app",
+  "hack.trace.server": "verbose",
+  "hack.useLanguageServer": true,
+  "hack.hhastLintMode": "whole-project",
+  "hack.hhastPath": "vendor/bin/hhast-lint",
+  "hack.useHhast": true
+}
